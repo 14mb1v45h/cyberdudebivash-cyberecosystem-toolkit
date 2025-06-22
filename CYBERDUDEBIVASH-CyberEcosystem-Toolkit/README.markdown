@@ -92,6 +92,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 The developers are not responsible for any misuse of this toolkit. Use it responsibly and ethically, adhering to all applicable laws and regulations.
 
 ## Contact
-For questions or support, contact the developer at [your-email@example.com] or open an issue in the repository.
+For questions or support, contact the developer at iambivash.bn@proton.me or open an issue in the repository. https://github.com/14mb1v45h/cyberdudebivash-cyberecosystem-toolkit.git
+
+copyright@2025  Powered By Cyberdudebivash
 
 *Last Updated: June 22, 2025*
